@@ -193,7 +193,7 @@ Base URL: `http://localhost:5000`
 
 ## 👨‍💻 Autor
 
-**Seu Nome Completo**
+**Jean Carlos Rodrigues**
 Estudante de Análise e Desenvolvimento de Sistemas
 
 [![GitHub](https://img.shields.io/badge/GitHub-seu--usuario-181717?logo=github)](https://github.com/seu-usuario)
